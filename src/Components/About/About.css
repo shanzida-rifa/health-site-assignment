@@ -1,0 +1,9 @@
+.about h2{
+color: green;
+font-weight: 24px;
+font-family: 'Times New Roman', Times, serif;
+}
+.about img{
+    border-radius: 10px;
+    
+}

@@ -9,7 +9,9 @@ const Header = () => {
         textDecoration: "none"
     }
     return (
+
         <nav className="head-style me-auto d-flex">
+            <h1>YOUR LANGUAGE CLUB!!</h1>
             <NavLink className="nav"
                 activeStyle={activeStyle}
                 to="/home">Home</NavLink>

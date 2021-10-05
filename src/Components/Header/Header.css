@@ -5,10 +5,14 @@
     background-color: black;
     text-align: center;
 }
+.head-style h1{
+    color: azure;
+}
 .nav{
     text-decoration: none;
     color: white;
     margin-right: 20px;
     font-size: 20px;
+    
 }
  
