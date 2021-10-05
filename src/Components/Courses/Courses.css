@@ -1,0 +1,13 @@
+.courses h2{
+    background-color: aquamarine;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 20px;
+}
+.course-container{
+    
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    
+}

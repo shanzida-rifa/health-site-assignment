@@ -1,0 +1,14 @@
+.course img{
+    height: 200px;
+    border-radius: 10px;
+}
+.course Link{
+    color: mediumblue;
+}
+.btn{
+    background-color: brown;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: cornsilk;
+}
