@@ -1,18 +1,18 @@
 .head-style{
-    margin: 20px;
-    padding: 10px;
-    line-height: 40px;
-    background-color: black;
-    text-align: center;
-}
+     background-color: rgb(88, 60, 14);
+} 
 .head-style h1{
-    color: azure;
+    color: rgb(171, 196, 60);
+    text-align: center;
+    margin: 5px;
+    padding-top: 10px;
 }
 .nav{
     text-decoration: none;
-    color: white;
+    color: rgb(235, 224, 227);
     margin-right: 20px;
-    font-size: 20px;
+    font-size: 30px;
+    padding-bottom: 20px;
     
 }
  

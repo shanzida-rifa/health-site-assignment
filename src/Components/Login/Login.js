@@ -6,7 +6,7 @@ import './Login.css';
 const Login = () => {
     const { signInUsingGoogle } = useAuth();
     return (
-        <div>
+        <div className="login">
             <div className="login-form">
                 <h2>Login</h2>
                 <form onSubmit="">
@@ -17,8 +17,8 @@ const Login = () => {
                 </form>
                 <p>Be a member of our family by <Link to="/register"> Create Account</Link></p>
             </div>
-            <div>----------OR---------</div>
-            <button className="btn-regular"
+            <div><h2>----------OR---------</h2></div>
+            <button className="btn"
                 onClick={signInUsingGoogle}
             >Google Sign In</button>
         </div>

@@ -1,14 +1,15 @@
-.course img{
+.service img{
     height: 200px;
     border-radius: 10px;
 }
-.course Link{
-    color: mediumblue;
-}
-.btn{
-    background-color: brown;
+ 
+.service .btn{
+    background-color: rgb(212, 173, 173);
     padding: 10px;
     border-radius: 10px;
     text-decoration: none;
     color: cornsilk;
+}
+.service .btn .link{
+    text-decoration: none;
 }

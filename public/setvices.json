@@ -7,7 +7,7 @@
         "age": 21,
         "name": "Mental Health Care",
         "language": "English",
-        "duration": "12 weeks",
+        "time": "1.00pm-2.00pm",
         "country": "Great Britain",
         "email": "kellielamb@anacho.com",
         "phone": "+1 (928) 403-2075"
@@ -20,7 +20,7 @@
         "age": 23,
         "name": "Dental Care",
         "language": "Spanish",
-        "duration": "16 weeks",
+        "time": "11.00 am-12.00pm",
         "country": "Spain",
         "email": "gayraymond@anacho.com",
         "phone": "+1 (988) 443-2020"
@@ -33,7 +33,7 @@
         "age": 24,
         "name": "Preventative Care",
         "language": "Arabic",
-        "duration": "37weeks",
+        "time": "11.00 am-12.35pm",
         "country": "Saudi Arabia",
         "email": "ettawatson@anacho.com",
         "phone": "+1 (810) 463-3697"
@@ -46,7 +46,7 @@
         "age": 22,
         "name": "Nutritional Support",
         "language": "Bangladesh",
-        "duration": "14 weeks",
+        "time": "4.00pm-5.00pm",
         "country": "Bangladesh",
         "email": "gallaghernieves@anacho.com",
         "phone": "+1 (969) 422-2012"
@@ -59,7 +59,7 @@
         "age": 20,
         "name": "Physical and occupational Therapy",
         "language": "Deutch",
-        "duration": "21 week",
+        "time": "11.00 am-12.00pm",
         "country": "Germany",
         "email": "mathisnolan@anacho.com",
         "phone": "+1 (818) 578-2302"
@@ -72,7 +72,7 @@
         "age": 36,
         "name": "Prenatal Care",
         "language": "Urdu",
-        "duration": "34 week",
+        "time": "7.00pm-8.00pm",
         "country": "Pakistan",
         "email": "diazhenson@anacho.com",
         "phone": "+1 (962) 456-3812"
@@ -85,7 +85,7 @@
         "age": 22,
         "name": "Pharmaceutical Care",
         "language": "Hindi",
-        "duration": "24 week",
+        "time": "7.00pm-8.00pm",
         "country": "India",
         "email": "jensenlara@anacho.com",
         "phone": "+1 (835) 528-2381"
@@ -98,7 +98,7 @@
         "age": 31,
         "name": "Laboratory and diagnostic care",
         "language": "Japanese",
-        "duration": "34week",
+        "time": "7.00pm-8.00pm",
         "country": "Japan",
         "email": "julietfinch@anacho.com",
         "phone": "+1 (849) 427-3064"
@@ -111,7 +111,7 @@
         "age": 25,
         "name": "Transportation",
         "language": "Chinese",
-        "duration": "23 week",
+        "time": "7.00pm-8.00pm",
         "country": "China",
         "email": "kerrykirkland@anacho.com",
         "phone": "+1 (888) 412-3025"

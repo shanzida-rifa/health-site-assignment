@@ -1,10 +1,5 @@
-.about h2{
-color: rgb(196, 12, 12);
-font-weight: 24px;
-font-family: 'Times New Roman', Times, serif;
-}
-.about {
-    background-image: url( ./camille-brodard-9j1r-lLPW1o-unsplash.jpg);
+.reg{
+    background-image: url(./thanh-duc-phan-qtBAR40B5D8-unsplash.jpg);
     height: 100%; 
 
     /* Center and scale the image nicely */
@@ -13,9 +8,15 @@ font-family: 'Times New Roman', Times, serif;
     background-size: cover;
 
     
-    padding: 50px;
+    padding: 150px;
     line-height: 40px;
     background-color: rgb(185, 56, 110);
     text-align: center;
-    
+}
+.login .btn{
+    background: green;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 24px;
 }

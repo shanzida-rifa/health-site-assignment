@@ -1,10 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import './Registration.css';
+import '../Login/Login.css'
 
 const Register = () => {
     return (
-        <div className="login-form">
-            <div>
+        <div className="reg login ">
+            <div >
                 <h2>
                     Register a Account
                 </h2>
@@ -21,7 +23,7 @@ const Register = () => {
                     <Link to="/login"> Login </Link>
                 </p>
                 <div>----------or-----------</div>
-                <button className="btn-regular">Google Sign In</button>
+                <button className="btn">Google Sign In</button>
             </div>
         </div>
     );
